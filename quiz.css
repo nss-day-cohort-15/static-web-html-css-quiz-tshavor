@@ -5,19 +5,19 @@
     border-color: lightblue;
 }
 
-.div1{
+.section1{
 	border-style: dotted;
     border-color: lightgray;
 }
 
-.div2 {
+.section2 {
 	display:flex;
 	align-item:center;
 	justify-content:center;
 }
 
 
-.div4{
+.section4{
     background-color: grey;
     color: yellow;
 }
@@ -28,7 +28,7 @@ h1 {
     text-align: center;
 }
 
-.div3 {
+.section3 {
 	text-align: justify;
 }
 #footer{
